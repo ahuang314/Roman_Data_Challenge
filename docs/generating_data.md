@@ -1,4 +1,4 @@
-# Generating Data
+# Generating Your Own Dataset
 
 ```console
 # Install required Python dependencies

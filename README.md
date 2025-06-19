@@ -9,7 +9,7 @@ tansu@wustl.edu
 
 TODO: Insert introduction about the different dark matter models here and how probing strong lenses can help place constraints on the different dark matter models
 
-With the Roman space telescope HLWAS survey launching in May 2027, [(Wedig et al, 2025)](https://iopscience.iop.org/article/10.3847/1538-4357/adc24f) predicts that there will be about 500 detectable strong lenses with sufficient SNR to be susceptible to robust analysis. Thus, the Roman data challenge aims to achieve the following:
+With the Roman space telescope HLWAS survey launching in May 2027, ([Wedig et al, 2025](https://iopscience.iop.org/article/10.3847/1538-4357/adc24f)) predicts that there will be about 500 detectable strong lenses with sufficient SNR to be susceptible to robust analysis. Thus, the Roman data challenge aims to achieve the following:
 
 1. Explore and find optimal approaches for strong lensing substructure analysis
 2. Assess how much dark matter information will be available in the Roman survey
