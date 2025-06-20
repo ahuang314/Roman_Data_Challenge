@@ -42,6 +42,6 @@ Timeline of the challenge
 | July 2025 | Announce to community via Roman Science Collaboration mailing list,<br>emails of the WFS and PIT PIs, and PhysCos newsletter. <br> Potentially also invite SLSC and DESC teams. |
 | July-August 2025 | Onboarding of the teams (setting up team accounts, supporting data access) |
 | August 2025 | Submit proposal to organize splinter session at AAS247 in January 2026 <br> of lensing with Roman (including talks by participating teams) |
-| Sep 2025 | Begin the data challenge |
+| Sep 2025 | Data challenge begins|
 | August 2026 | Data challenge ends |
-| September 2026 | Submit paper on methodology of challenge, baselining of the submissions, and lessons learned |
+| September 2026 | Submit paper on methodology of challenge, baselining of the submissions, <br>and lessons learned |
