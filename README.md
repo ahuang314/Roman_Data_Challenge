@@ -2,6 +2,7 @@ Overview of the Roman Data Challenge for Dark Matter
 ===============================================
 
 Note: This page is still under construction, and the details of the challenge are still being fleshed out. Any comments/suggestions are welcome, and should be sent to the following:
+
 - alan.huang.1@stonybrook.edu
 - b.t.wedig@wustl.edu
 - simon.birrer@stonybrook.edu
@@ -36,27 +37,12 @@ We outline several quantifiable metrics which the participants can choose to det
 
 Timeline of the challenge
 -------------------------------------
-
-July 2025: Announce to the community via Roman Science Collaboration mailing list, emails of the WFS and PIT PIs, and PhysCos newsletter. Potentially also invite SLSC and DESC teams.
-
-July-August 2025: Onboarding of the teams (setting up team accounts, supporting data access)
-
-August 2025: Submit a proposal to organize a splinter session at AAS247 in January 2026 of lensing with Roman (including talks by participating teams)
-
-Sep 2025: Begin the data challenge
-
-August 2026: Data challenge ends
-
-September 2026: Submit a paper on the methodology of the data challenge, baselining of the submissions, and lessons learned
-
-
-Timeline of the challenge (table format draft)
--------------------------------------
 | Date | Event |
 |:----:|:-----:|
-| July 2025 | Announce to the community via Roman Science Collaboration mailing list, emails of the WFS and PIT PIs, and PhysCos newsletter. Potentially also invite SLSC and DESC teams. |
+| July 2025 | Announce to community via Roman Science Collaboration and PhysCos newsletter. Potentially also invite SLSC and DESC teams. |
+|:----:|:-----:|
 | July-August 2025 | Onboarding of the teams (setting up team accounts, supporting data access) |
-| August 2025 | Submit a proposal to organize a splinter session at AAS247 in January 2026 of lensing with Roman (including talks by participating teams) |
+| August 2025 | Submit proposal to organize splinter session at AAS247 in January 2026 of lensing with Roman (including talks by participating teams) |
 | Sep 2025 | Begin the data challenge |
 | August 2026 | Data challenge ends |
-| September 2026 | Submit a paper on the methodology of the data challenge, baselining of the submissions, and lessons learned |
+| September 2026 | Submit paper on methodology of challenge, baselining of the submissions, and lessons learned |
