@@ -7,6 +7,7 @@ Note: This page is still under construction, and the details of the challenge ar
 - b.t.wedig@wustl.edu
 - simon.birrer@stonybrook.edu
 - tansu@wustl.edu
+- xhuang22@usfca.edu
 
 Although Cold Dark Matter (CDM) is a widely successful model for predicting the large-scale structure of the universe, its shortcomings become apparent when used to predict properties of small-scale structures. Examples include the missing sattellite problem, where CDM predicts more satellite galaxies than observed, the cusp-core problem, where CDM predicts a higher density of dark matter at the center of galaxies than observed, and more. A review of the CDM model's shortcomings is given in [Perivolaropoulos and Skara, 2022](https://doi.org/10.1016/j.newar.2022.101659). As a result, other dark matter models have been brought forth to explain these discrepancies, such as warm dark matter and self-interacting dark matter. Thus, we aim to analyze dark matter through strong gravitational lenses, which can allow us to place constraints on these alternative dark matter models.
 
