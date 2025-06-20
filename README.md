@@ -1,15 +1,15 @@
-Roman Data Challenge Overview
+Overview of the Roman Data Challenge for Dark Matter
 ===============================================
 
 Note: This page is still under construction, and the details of the challenge are still being fleshed out. Any comments/suggestions are welcome, and should be sent to the following:
-alan.huang.1@stonybrook.edu
-b.t.wedig@wustl.edu
-simon.birrer@stonybrook.edu
-tansu@wustl.edu
+- alan.huang.1@stonybrook.edu
+- b.t.wedig@wustl.edu
+- simon.birrer@stonybrook.edu
+- tansu@wustl.edu
 
-TODO: Insert introduction about the different dark matter models here and how probing strong lenses can help place constraints on the different dark matter models
+Although Cold Dark Matter (CDM) is a widely successful model for predicting the large-scale structure of the universe, ts shortcomings become apparent when applied to small-scale structures. Examples include the missing sattellite problem, where CDM predicts more satellite galaxies than observed, the cusp-core problem, where CDM predicts a higher density of dark matter at the center of galaxies than observed, and more. A review of the CDM model's shortcomings is given in ([Perivolaropoulos and Skara, 2022](https://doi.org/10.1016/j.newar.2022.101659)). As a result, other dark matter models have been brought forth to explain these discrepancies, such as warm dark matter and self-interacting dark matter. Thus, we aim to analyze dark matter through strong gravitational lenses, which can allow us to place constraints on these alternative dark matter models.
 
-With the Roman space telescope HLWAS survey launching in May 2027, ([Wedig et al, 2025](https://iopscience.iop.org/article/10.3847/1538-4357/adc24f)) predicts that there will be about 500 detectable strong lenses with sufficient SNR to be susceptible to robust analysis. Thus, the Roman data challenge aims to achieve the following:
+With the Roman space telescope HLWAS survey launching in May 2027, ([Wedig et al, 2025](https://iopscience.iop.org/article/10.3847/1538-4357/adc24f)) predicts that there will be about 500 detectable strong lenses with sufficient SNR to be susceptible to robust dark matter analysis. Thus, the Roman data challenge aims to achieve the following:
 
 1. Explore and find optimal approaches for strong lensing substructure analysis
 2. Assess how much dark matter information will be available in the Roman survey
@@ -48,3 +48,15 @@ Sep 2025: Begin the data challenge
 August 2026: Data challenge ends
 
 September 2026: Submit a paper on the methodology of the data challenge, baselining of the submissions, and lessons learned
+
+
+Timeline of the challenge (table format draft)
+-------------------------------------
+| Date | Event |
+|:----:|:-----:|
+| July 2025 | Announce to the community via Roman Science Collaboration mailing list, emails of the WFS and PIT PIs, and PhysCos newsletter. Potentially also invite SLSC and DESC teams. |
+| July-August 2025 | Onboarding of the teams (setting up team accounts, supporting data access) |
+| August 2025 | Submit a proposal to organize a splinter session at AAS247 in January 2026 of lensing with Roman (including talks by participating teams) |
+| Sep 2025 | Begin the data challenge |
+| August 2026 | Data challenge ends |
+| September 2026 | Submit a paper on the methodology of the data challenge, baselining of the submissions, and lessons learned |
