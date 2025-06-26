@@ -9,9 +9,9 @@ Note: This page is still under construction, and the details of the challenge ar
 - tansu@wustl.edu
 - xhuang22@usfca.edu
 
-Although Cold Dark Matter (CDM) is a widely successful model for predicting the large-scale structure of the universe, its shortcomings become apparent when used to predict properties of small-scale structures. Examples include the missing sattellite problem, where CDM predicts more satellite galaxies than observed, the cusp-core problem, where CDM predicts a higher density of dark matter at the center of galaxies than observed, and more. A review of the CDM model's shortcomings is given in [Perivolaropoulos and Skara (2022)](https://doi.org/10.1016/j.newar.2022.101659). To explain these discrepancies, other dark matter models have been brought forth, such as the warm dark matter and self-interacting dark matter models. Thus, our aim is to analyze dark matter through strong gravitational lenses, which can allow us to place constraints on these alternative dark matter models.
+Although Cold Dark Matter (CDM) is a widely successful model for predicting the large-scale structure of the universe, its shortcomings become apparent when used to predict properties of small-scale structures. Examples include the missing satellite problem, where CDM predicts more satellite galaxies than observed, the cusp-core problem, where CDM predicts a higher density of dark matter at the center of galaxies than observed, and more. A review of the CDM model's shortcomings is given in [Perivolaropoulos and Skara (2022)](https://doi.org/10.1016/j.newar.2022.101659). To explain these discrepancies, other dark matter models have been brought forth, such as the warm dark matter and self-interacting dark matter models. Thus, our aim is to analyze dark matter through strong gravitational lenses, which can allow us to place constraints on these alternative dark matter models.
 
-With the Roman space telescope HLWAS survey launching in May 2027, [Wedig et al (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/adc24f) predicts that there will be about 500 detectable strong lenses with sufficient SNR to be susceptible to robust dark matter analysis. Thus, the Roman data challenge aims to achieve the following:
+With the Roman space telescope HLWAS survey launching in May 2027, [Wedig et al (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/adc24f) predicts that there will be about 500 detectable strong lenses with sufficient signal-to-noise ratio to be susceptible to robust dark matter analysis. Thus, the Roman data challenge aims to achieve the following:
 
 1. Explore and find optimal approaches for strong lensing substructure analysis
 2. Assess how much dark matter information will be available in the Roman survey
@@ -19,7 +19,7 @@ With the Roman space telescope HLWAS survey launching in May 2027, [Wedig et al 
 4. Incentivise scalable methodology to be able to work on Roman scale data sets
 5. Support and maintain a research community focused on substructure studies using Roman
 
-To this end, we have simulated a dataset of 100,000 strong lensing images containing dark matter substructure using the [mejiro](https://github.com/AstroMusers/mejiro) library. Participants of the data challenge will use these images to determine properties of these strong lenses. Participants may also generate their own simulated data using mejiro on the Roman Research Nexus.
+To this end, we have simulated a dataset of 100,000 strong lensing images containing dark matter substructure using the [mejiro](https://github.com/AstroMusers/mejiro) library. Participants of the data challenge will use this training set to train a neural network, then determine properties of strong lenses given in a validation set. Participants may also generate their own simulated data using mejiro on the Roman Research Nexus.
 
 
 Structure of the challenge
