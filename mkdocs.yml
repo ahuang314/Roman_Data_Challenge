@@ -1,7 +1,14 @@
-site_name: Roman Data Challenge for Dark Matter
+site_name: Roman Data Challenge for Dark Matter Substructure with Galaxy-Galaxy Strong Gravitational Lenses
+
 theme:
   name: readthedocs
   highlightjs: true
+
+nav:
+- index.md
+- getting_started.md
+- submitting.md
+
 plugins:
   - search
   - mkdocstrings:
@@ -10,6 +17,7 @@ plugins:
         python:
           options:
             docstring_style: sphinx
+
 markdown_extensions:
   - markdown_include.include:
       base_path: .
