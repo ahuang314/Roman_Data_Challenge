@@ -2,7 +2,7 @@
 
 ## Eligibility
 
-Everyone is welcome to participate. Entries can be as a team or individually.
+Everyone is welcome to participate. Entries can be as a team or individual.
 
 ## Downloading the Datasets
 
