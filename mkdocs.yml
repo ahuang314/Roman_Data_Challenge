@@ -1,7 +1,15 @@
-site_name: Roman Data Challenge for Dark Matter
+site_name: Roman Strong Lens Data Challenge
+
 theme:
   name: readthedocs
   highlightjs: true
+
+nav:
+- index.md
+- getting_started.md
+- running_mejiro.md
+- submitting.md
+
 plugins:
   - search
   - mkdocstrings:
@@ -10,7 +18,15 @@ plugins:
         python:
           options:
             docstring_style: sphinx
+
 markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
