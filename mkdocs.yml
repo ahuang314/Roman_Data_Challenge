@@ -7,11 +7,13 @@ theme:
 nav:
 - index.md
 - getting_started.md
+- data_challenge.md
 - running_mejiro.md
 - submitting.md
 
 plugins:
   - search
+  - include-markdown
   - mkdocstrings:
       handlers:
         # See: https://mkdocstrings.github.io/python/usage/

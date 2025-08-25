@@ -27,17 +27,19 @@ This data challenge aims to achieve the following:
 
 Although Cold Dark Matter (CDM) is a widely successful model for predicting the large-scale structure of the Universe, its shortcomings become apparent when used to predict properties of small-scale structures. Examples include the missing satellite problem, where CDM predicts more satellite galaxies than observed, the cusp-core problem, where CDM predicts a higher density of dark matter at the center of galaxies than observed, and more ([Perivolaropoulos and Skara 2022](https://doi.org/10.1016/j.newar.2022.101659)). To explain these discrepancies, other dark matter models have been brought forth, such as the warm dark matter and self-interacting dark matter models. Thus, our aim is to analyze dark matter through strong gravitational lenses, which can allow us to place constraints on these alternative dark matter models.
 
-## Structure
+## Data Challenge Structure
+
+See the [Data Challenge](data_challenge.md) page for more details about each rung.
 
 ### Rung 1: Substructure or No Substructure?
 
-The objective is to determine whether a given system has dark matter substructure or not. Systems with substructure will have subhalos in the dark matter halo of the deflector and line-of-sight halos. Systems without dark matter substructure will simply be smooth mass models.
+{% include "rung_descriptions/rung_1.md" %}
 
 ### Rung 2: CDM or WDM?
 
-This will quantify a pipeline's ability to detect the collective perturbative effect of a population of low-mass subhalos.
+{% include "rung_descriptions/rung_2.md" %}
 
-### Additional possible paths of inquiry
+### Additional Possible Paths of Inquiry
 
 - Einstein radius of main deflector
 - Total Halo Mass enclosed in Einstein radius

@@ -1,0 +1,1 @@
+The objective is to determine whether a given system has dark matter substructure or not. Systems with substructure will have subhalos in the dark matter halo of the deflector and line-of-sight halos. Systems without dark matter substructure will simply be smooth mass models.
