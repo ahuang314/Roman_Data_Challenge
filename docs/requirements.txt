@@ -9,13 +9,13 @@ bracex==2.6
 click==8.1.3
     # via mkdocs
 colorama==0.4.6
-    # via click
+    # via
+    #   click
+    #   mkdocs
 ghp-import==2.1.0
     # via mkdocs
 griffe==0.22.0
     # via mkdocstrings-python
-importlib-metadata==4.12.0
-    # via mkdocs
 jinja2==3.1.2
     # via
     #   mkdocs
@@ -32,9 +32,12 @@ markdown-include==0.6.0
 markupsafe==2.1.1
     # via
     #   jinja2
+    #   mkdocs
     #   mkdocstrings
 mergedeep==1.3.4
-    # via mkdocs
+    # via
+    #   mkdocs
+    #   mkdocs-get-deps
 mkdocs==1.6.1
     # via
     #   -r docs/requirements.in
@@ -42,6 +45,8 @@ mkdocs==1.6.1
     #   mkdocstrings
 mkdocs-autorefs==0.4.1
     # via mkdocstrings
+mkdocs-get-deps==0.2.0
+    # via mkdocs
 mkdocs-include-markdown-plugin==6.0.2
     # via -r docs/requirements.in
 mkdocstrings[python]==0.19.0
@@ -52,6 +57,10 @@ mkdocstrings-python==0.7.1
     # via mkdocstrings
 packaging==21.3
     # via mkdocs
+pathspec==0.12.1
+    # via mkdocs
+platformdirs==4.4.0
+    # via mkdocs-get-deps
 pymdown-extensions==9.5
     # via mkdocstrings
 pyparsing==3.0.9
@@ -61,6 +70,7 @@ python-dateutil==2.8.2
 pyyaml==6.0.2
     # via
     #   mkdocs
+    #   mkdocs-get-deps
     #   pyyaml-env-tag
 pyyaml-env-tag==0.1
     # via mkdocs
@@ -70,5 +80,3 @@ watchdog==2.1.9
     # via mkdocs
 wcmatch==8.5.2
     # via mkdocs-include-markdown-plugin
-zipp==3.8.0
-    # via importlib-metadata
