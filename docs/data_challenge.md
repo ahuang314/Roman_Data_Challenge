@@ -13,7 +13,7 @@ The substructure added to 50% of the systems is a `pyHalo` realization of CDM su
 The full `mejiro` configuration YAML file used to generate this dataset is included below:
 
 ```yaml
-{% include "../data/mejiro_configuration/roman_test.yaml" %}
+{% include "../data/mejiro_configuration/roman_data_challenge_rung_1.yaml" %}
 ```
 
 ## Rung 2: CDM or WDM?
