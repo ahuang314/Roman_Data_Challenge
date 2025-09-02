@@ -1,3 +1,4 @@
 # Submitting
 
-**Submission format and location are to be decided**
+!!! todo
+    **Submission format and location are to be decided**
