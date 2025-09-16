@@ -10,7 +10,6 @@ nav:
 - data_challenge.md
 - running_mejiro.md
 - submitting.md
-- test.md
 
 plugins:
   - search
