@@ -31,14 +31,6 @@ Although Cold Dark Matter (CDM) is a widely successful model for predicting the 
 
 See the [Data Challenge](data_challenge.md) page for more details about each rung.
 
-### Rung 1: Substructure or No Substructure?
-
-{% include "rung_descriptions/rung_1.md" %}
-
-### Rung 2: CDM or WDM?
-
-{% include "rung_descriptions/rung_2.md" %}
-
 ### Additional Possible Paths of Inquiry
 
 - Einstein radius of main deflector
