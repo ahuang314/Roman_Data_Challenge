@@ -1,4 +1,3 @@
 # Submitting
 
-!!! todo
-    **Submission format and location are to be decided**
+After the participants run their models on the given test set for each rung, they will store their results in a binary pickle file. These submissions should then be emailed to roman_data_challenge_submissions@googlegroups.com (TODO: currently this Google Group has not yet been created). The format of these pickle files, as well as the parameters being evaluated, can be found in the notebooks [here](https://github.com/ahuang314/Roman_Data_Challenge/tree/main/Notebooks).

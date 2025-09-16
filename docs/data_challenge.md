@@ -2,6 +2,10 @@
 
 All datasets assume the `astropy.cosmology.realizations.Planck18` cosmology.
 
+## Rung 0: Tutorial
+
+{% include "rung_descriptions/rung_0.md" %}
+
 ## Rung 1: Substructure or No Substructure?
 
 {% include "rung_descriptions/rung_1.md" %}
