@@ -14,3 +14,11 @@ In this rung, you will train a regression model to determine the Einstein radius
 TODO: Generate training dataset and test dataset
 
 In this rung, you will train a binary classification model to determine whether or not a simulated lens contains dark matter substructure. The submitted CSV file should be named "{team name}_rung1_submission.csv" and contain the parameters "ID", "has_substructure" in the header row, and each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung1_submissions.ipynb). Each submitted lens will be graded from 0 to 100.
+
+## Rung 2
+
+TBA
+
+## Rung 3
+
+TBA
