@@ -6,8 +6,8 @@ theme:
 
 nav:
 - index.md
-- getting_started.md
 - data_challenge.md
+- getting_started.md
 - running_mejiro.md
 - submissions.md
 
