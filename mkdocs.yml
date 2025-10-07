@@ -9,7 +9,7 @@ nav:
 - getting_started.md
 - data_challenge.md
 - running_mejiro.md
-- submitting.md
+- submissions.md
 
 plugins:
   - search
