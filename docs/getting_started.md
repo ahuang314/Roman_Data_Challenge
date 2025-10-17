@@ -2,11 +2,11 @@
 
 ## Eligibility
 
-Everyone is welcome to participate. Entries can be as a team or individual.
+Everyone is welcome to participate. Entries can be as a team or individual. If you wish to stay updated with announcements regarding the data challenge, please email the coordinators so that you can be added to the mailing list.
 
 ## Downloading the Datasets
 
-The dataset for rung 0, which consists of 10,737 lenses stored in an h5 file, can be downloaded [here](https://gowustl-my.sharepoint.com/personal/b_t_wedig_wustl_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fb%5Ft%5Fwedig%5Fwustl%5Fedu%2FDocuments%2F2025%2D09%2D19%20Roman%20Data%20Challenge%20mini%20dataset%2Froman%5Fdata%5Fchallenge%5Fmini%5Fv%5F0%5F1%2Eh5&parent=%2Fpersonal%2Fb%5Ft%5Fwedig%5Fwustl%5Fedu%2FDocuments%2F2025%2D09%2D19%20Roman%20Data%20Challenge%20mini%20dataset&ga=1)
+The dataset for rung 0, which consists of 10,737 lenses stored in an h5 file, can be downloaded here (insert Zenodo link here)
 
 !!! todo
     **instructions on how to download rungs 1, 2, and 3 datasets**
