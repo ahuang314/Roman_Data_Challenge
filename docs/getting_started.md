@@ -6,7 +6,7 @@ Everyone is welcome to participate. Entries can be as a team or individual. If y
 
 ## Downloading the Datasets
 
-The dataset for rung 0, which consists of 10,737 lenses stored in an h5 file, can be downloaded here (insert Zenodo link here)
+The dataset for rung 0, which consists of 10,737 lenses stored in an h5 file, [can be downloaded here from Zenodo](https://doi.org/10.5281/zenodo.17391542). It is bundled with a notebook that demonstrates how to work with the dataset.
 
 !!! todo
     **instructions on how to download rungs 1, 2, and 3 datasets**
