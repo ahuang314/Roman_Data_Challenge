@@ -4,7 +4,7 @@ After the participants run their neural network models on the given test set for
 
 ## Rung 0
 
-In this rung, you will train a regression model to determine the Einstein radius of lenses. Results should be submitted for the final 25 lenses in the dataset (with IDs 10711 - 10736). The submitted CSV file should contain the parameters "ID", "theta_E", and "theta_E_sigma" in the header row, with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung0_submissions.ipynb).
+In this rung, you will train a regression model to determine the Einstein radius of lenses. The submitted CSV file should contain the parameters "ID", "theta_E", and "theta_E_sigma" in the header row, with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung0_submissions.ipynb).
 
 
 ## Rung 1

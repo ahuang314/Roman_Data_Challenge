@@ -1,6 +1,6 @@
 # Details of the Data Challenge
 
-All datasets assume the `astropy.cosmology.realizations.Planck18` cosmology. To download and work with the datasets, see the [Getting Started](https://roman-data-challenge.readthedocs.io/en/latest/getting_started/#) page.
+All datasets assume the `astropy.cosmology.realizations.Planck18` cosmology. To download and work with the datasets, see the [Getting Started](https://roman-data-challenge.readthedocs.io/en/latest/getting_started/#) page. See the [Submissions page](https://roman-data-challenge.readthedocs.io/en/latest/submissions/#) for details on what and how to submit.
 
 ## Rung 0: Tutorial
 
