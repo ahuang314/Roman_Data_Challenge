@@ -1,6 +1,11 @@
 # Details of the Data Challenge
 
-All datasets assume the `astropy.cosmology.realizations.Planck18` cosmology. To download and work with the datasets, see the [Getting Started](https://roman-data-challenge.readthedocs.io/en/latest/getting_started/#) page. See the [Submissions page](https://roman-data-challenge.readthedocs.io/en/latest/submissions/#) for submission deadlines and details on what and how to submit.
+To download and work with the datasets, see the [Getting Started](https://roman-data-challenge.readthedocs.io/en/latest/getting_started/#) page. See the [Submissions page](https://roman-data-challenge.readthedocs.io/en/latest/submissions/#) for submission deadlines and details on what and how to submit.
+
+!!! note
+    We only simulate static, galaxy-galaxy strong gravitational lenses. In other words, we do not simulate quasars, group-scale, or cluster-scale systems.
+
+All datasets assume the `astropy.cosmology.realizations.Planck18` cosmology. 
 
 ## Rung 0: Tutorial
 
