@@ -1,6 +1,6 @@
 # Submissions
 
-After the participants run their neural network models on the given test set for each rung, they will store their results in a CSV file. The CSV files should be emailed to roman_data_challenge_submissions@googlegroups.com (TODO: currently this Google Group has not yet been created). In the email subject, please include which rung the submission corresponds to. In the email body, please include the names, emails, and affiliations of all team members associated with the submission. The submitted CSV file should be named "{team name}_rung{rung number}_submission.csv". For all of the rungs, each submitted lens will be graded from 0 to 100.
+After the participants run their neural network models on the given test set for each rung, they will store their results in a CSV file. The CSV files should be emailed to roman_data_challenge_submissions@stonybrook.edu. In the email subject, please include which rung the submission corresponds to. In the email body, please include the names, emails, and affiliations of all team members associated with the submission. The submitted CSV file should be named "{team name}_rung{rung number}_submission.csv". For rungs involving classification, the models' precision, recall, and f2 score will be evaluated. For rungs involving regression, the grading scheme is TBA.
 
 ## Rung 0
 

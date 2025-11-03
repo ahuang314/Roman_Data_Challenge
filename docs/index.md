@@ -1,7 +1,7 @@
 # Overview
 
 !!! warning
-    The data challenge has not yet started, and this documentation is still under constructions. Any comments/suggestions are welcome, and should be sent to the following:
+    This documentation will be under continuous development as the data challenge progresses. Feedback and questions are welcome, and should be sent to the following:
 
     - [alan.huang.1@stonybrook.edu](mailto:alan.huang.1@stonybrook.edu)
     - [b.t.wedig@wustl.edu](mailto:b.t.wedig@wustl.edu)
