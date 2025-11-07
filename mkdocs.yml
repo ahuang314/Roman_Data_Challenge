@@ -6,10 +6,10 @@ theme:
 
 nav:
 - index.md
-- data_challenge.md
+- data_challenges.md
 - getting_started.md
-- running_mejiro.md
 - submissions.md
+- running_mejiro.md
 
 plugins:
   - search

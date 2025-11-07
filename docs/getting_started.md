@@ -13,7 +13,7 @@ Everyone is welcome to participate. Entries can be as a team or individual. If y
 
 The training dataset for rung 0, which consists of ~10k lenses stored in an h5 file, [can be downloaded here from Zenodo](https://doi.org/10.5281/zenodo.17391542). It is bundled with a notebook that demonstrates how to work with the dataset.
 
-The unlabeled test set which participants will submit their results for has not yet been generated. When it is generated, it will be downloadable from the same link.
+The unlabeled test set which participants will submit their results [can be downloaded here from Zenodo](https://doi.org/10.5281/zenodo.17547242).
 
 ### Rung 1
 !!! todo
