@@ -32,13 +32,13 @@ Although Cold Dark Matter (CDM) is a widely successful model for predicting the 
 
 | Date | Event |
 |:----:|:-----:|
-| Fall 2025 | Announce to community via Roman Science Collaboration mailing list,<br>emails of the WFS and PIT PIs, and PhysCos newsletter. <br> Potentially also invite SLSC and DESC teams. |
-| Fall 2025 | Onboarding of the teams (setting up team accounts, supporting data access) |
-| Fall 2025 | Submit proposal to organize splinter session at AAS247 in January 2026 <br> of lensing with Roman (including talks by participating teams) |
-| Fall 2025 | Data challenge begins|
+| November 2025 | Announce to community via Roman Science Collaboration mailing list,<br>emails of the WFS and PIT PIs, and PhysCos newsletter. <br> Potentially also invite SLSC and DESC teams. |
+| November 2025 | Rung 0, the trial mini data challenge, begins |
+| December 2025 | Rung 0 ends, feedback is incorporated for full data challenge |
+| January 2026 | Data challenge begins, starting with Rung 1 |
 | Fall 2026 | Data challenge ends |
 | Fall 2026 | Submit paper on methodology of challenge, baselining of the submissions, <br>and lessons learned |
 
 ## Contact Us
 
-Feedback and questions are welcome, and should be sent to [roman_data_challenge_submissions@stonybrook.edu](mailto:roman_data_challenge_submissions@stonybrook.edu)
+Feedback and questions are welcome, and should be sent to [roman_data_challenge_submissions@stonybrook.edu](mailto:roman_data_challenge_submissions@stonybrook.edu). Additionally, we are active in the #strong-lensing channel in the Roman Space Telescope Slack.

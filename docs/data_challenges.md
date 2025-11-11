@@ -19,8 +19,6 @@ For additional details about the software pipeline used to produce these data, s
 
 {% include "rung_descriptions/rung_1.md" %}
 
-
-
 The substructure added to 50% of the systems is a `pyHalo` realization of CDM subhalos and line-of-sight halos (`pyHalo.PresetModels.cdm.CDM`). `pyHalo` accounts for this addition of mass to the mass model by also including a negative convergence sheet. We give `pyHalo` the main halo mass, lens redshift, and source redshift, but all other parameters are the defaults (as of the `pyHalo` version utilized which can be found in the dataset's metadata).
 
 <!-- The full `mejiro` configuration YAML file used to generate this dataset is included below:

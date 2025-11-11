@@ -1,7 +1,7 @@
 # Generating Datasets
 
 !!! note
-    It is not expected that participants will need to generate their own datasets to participate in this data challenge. If you would like a specific dataset generated for your science case, you can follow the instructions here or get in touch with us at [roman_data_challenge_submissions@stonybrook.edu](mailto:roman_data_challenge_submissions@stonybrook.edu).
+    It is not expected that participants will need to generate their own datasets to participate in this data challenge. If you would like a specific dataset generated for your science case, you can follow the instructions here or get in touch with us at [roman_data_challenge_submissions@stonybrook.edu](mailto:roman_data_challenge_submissions@stonybrook.edu). We recommend the latter.
 
 For participants who would like to generate their own datasets, these instructions walk through how to install and run `mejiro`, the simulation package used to generate the challenge datasets.
 
