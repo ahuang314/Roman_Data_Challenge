@@ -16,6 +16,13 @@ The training dataset for rung 0, which consists of ~10k lenses stored in an h5 f
 The unlabeled test set which participants will submit their results [can be downloaded here from Zenodo](https://doi.org/10.5281/zenodo.17547242).
 
 ### Rung 1
-!!! todo
-    **instructions on how to download rungs 1, 2, and 3 datasets**
 
+Rung 1 will begin in January 2026.
+
+### Rung 2
+
+TBA
+
+### Rung 3
+
+TBA

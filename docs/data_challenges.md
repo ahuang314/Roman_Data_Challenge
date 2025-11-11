@@ -11,7 +11,7 @@ For additional details about the software pipeline used to produce these data, s
 !!! note
     We only simulate static, galaxy-galaxy strong gravitational lenses. In other words, we do not simulate quasars, group-scale, or cluster-scale systems.
 
-## Rung 0: Tutorial
+## Rung 0 (Tutorial): Infer Einstein Radius
 
 {% include "rung_descriptions/rung_0.md" %}
 
