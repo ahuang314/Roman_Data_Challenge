@@ -17,7 +17,7 @@ The unlabeled test set which participants will submit their results [can be down
 
 ### Rung 1
 
-Rung 1 will begin in January 2026.
+TBA
 
 ### Rung 2
 
