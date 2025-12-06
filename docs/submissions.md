@@ -2,7 +2,7 @@
 
  Please prepare your results in a CSV file, to be emailed to [roman_data_challenge_submissions@stonybrook.edu](mailto:roman_data_challenge_submissions@stonybrook.edu). In the email subject, please include which rung the submission corresponds to. In the email body, please include the names, emails, and affiliations of all team members associated with the submission. The submitted CSV file should be named `{team name}_rung{rung number}_submission{submission number}.csv`. For example, if team "bob" wishes to re-submit for rung 1 due to a bug that appeared in the previous submission, their csv file should be named `bob_rung1_submission2.csv`.
 
-For rungs involving classification, the models' precision, recall, and f2 score will be evaluated. For rungs involving regression, the grading scheme is identical to that of [Ding et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1096D/abstract), section 2.7.
+For rungs involving classification, the models' accuracy, precision, true positive rate (recall), and false positive rate will be evaluated. For rungs involving regression, the grading scheme is identical to that of [Ding et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1096D/abstract), section 2.7.
 
 ## Rung 0
 
