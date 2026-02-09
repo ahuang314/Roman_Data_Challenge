@@ -32,10 +32,10 @@ Although Cold Dark Matter (CDM) is a widely successful model for predicting the 
 
 | Date | Event |
 |:----:|:-----:|
-| February 2026 | Announce to community via Roman Science Collaboration mailing list,<br>emails of the WFS and PIT PIs, and PhysCos newsletter. <br> Potentially also invite SLSC and DESC teams. |
-| February 2026 | Rung 0, the trial mini data challenge, begins |
-| March 2026 | Rung 0 ends, feedback is incorporated for full data challenge |
-| March 2026 | Data challenge begins, starting with Rung 1 |
+| March 2026 | Announce to community via Roman Science Collaboration mailing list,<br>emails of the WFS and PIT PIs, and PhysCos newsletter. <br> Potentially also invite SLSC and DESC teams. |
+| March 2026 | Rung 0, the trial mini data challenge, begins |
+| April 2026 | Rung 0 ends, feedback is incorporated for full data challenge |
+| April 2026 | Data challenge begins, starting with Rung 1 |
 | Fall 2026 | Data challenge ends |
 | Fall 2026 | Submit paper on methodology of challenge, baselining of the submissions, <br>and lessons learned |
 
