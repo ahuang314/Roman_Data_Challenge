@@ -1,1 +1,1 @@
-In this rung, you will train a binary classification model to determine whether or not a simulated lens contains dark matter substructure. Systems with substructure will have subhalos in the dark matter halo of the deflector and line-of-sight halos. Systems without dark matter substructure will simply be smooth mass models.
+In this rung, you will train a binary classification model to distinguish between cold dark matter (CDM) and fuzzy dark matter (FDM).

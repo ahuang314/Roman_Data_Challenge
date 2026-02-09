@@ -1,1 +1,1 @@
-This will quantify a pipeline's ability to detect the collective perturbative effect of a population of low-mass subhalos.
+In this rung, you will train a binary classification model to distinguish between cold dark matter (CDM) and warm dark matter (WDM). This will quantify a pipeline's ability to detect the collective perturbative effect of a population of low-mass subhalos just below Roman's single-subhalo detection threshold.

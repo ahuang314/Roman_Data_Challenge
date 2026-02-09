@@ -6,14 +6,18 @@ For rungs involving classification, the models' accuracy, precision, true positi
 
 ## Rung 0
 
-In this rung, you will train a regression model to determine the Einstein radius of lenses. The submitted CSV file should contain the parameters `ID`, `theta_E`, and `theta_E_sigma` in the header row, with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung0_submissions.ipynb).
+{% include "rung_descriptions/rung_0.md" %}
+
+The submitted CSV file should contain the parameters `ID`, `theta_E`, and `theta_E_sigma` in the header row, with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung0_submissions.ipynb).
 
 !!! warning
-    The deadline for Rung 0 submissions is TBA, but anticipated in February 2026. Stay tuned for updates.
+    The deadline for Rung 0 submissions is TBA, but anticipated in Spring 2025. Stay tuned for updates.
 
 ## Rung 1
 
-In this rung, you will train a binary classification model to determine whether or not a simulated lens contains dark matter substructure. The submitted CSV file should contain the parameters "ID", "has_substructure" in the header row, with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung1_submissions.ipynb).
+{% include "rung_descriptions/rung_1.md" %}
+
+The submitted CSV file should contain the parameters "ID", "has_substructure" in the header row. with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung1_submissions.ipynb).
 
 ## Rung 2
 

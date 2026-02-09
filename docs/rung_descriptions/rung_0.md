@@ -1,3 +1,1 @@
-The goal of this rung is to serve as a tutorial for participants. You will familiarize yourself with the systematics of the challenge (e.g. where and how to submit, how to set up mejiro and obtain/generate datasets, where to find relevant documentation) and for us as the organizers to make sure that the data challenge runs smoothly. 
-
 In this rung, you will train a regression model to determine the Einstein radius of lenses. 
