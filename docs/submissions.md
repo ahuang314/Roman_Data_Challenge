@@ -8,7 +8,7 @@ For rungs involving classification, the models' accuracy, precision, true positi
 
 {% include "rung_descriptions/rung_0.md" %}
 
-The submitted CSV file should contain the parameters `ID`, `theta_E`, and `theta_E_sigma` in the header row, with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung0_submissions.ipynb). For transparency, the notebook used to grade the submissions is also provided in the same repository.
+The submitted CSV file should contain the parameters `ID`, `theta_E`, and `theta_E_sigma` in the header row, with each row afterwards corresponding to the results for each of the lenses. For transparency, the notebook used to grade the submissions is also provided in the same repository.
 
 !!! warning
     The deadline for Rung 0 submissions is TBA, but anticipated in Summer 2026. Stay tuned for updates.
@@ -17,7 +17,7 @@ The submitted CSV file should contain the parameters `ID`, `theta_E`, and `theta
 
 {% include "rung_descriptions/rung_1.md" %}
 
-The submitted CSV file should contain the parameters "ID", "has_substructure" in the header row. with each row afterwards corresponding to the results for each of the lenses. An example can be found in the notebook [here](https://github.com/ahuang314/Roman_Data_Challenge/blob/main/Notebooks/rung1_submissions.ipynb).
+The submitted CSV file should contain the parameters "ID", "has_substructure" in the header row. with each row afterwards corresponding to the results for each of the lenses.
 
 ## Rung 2
 
