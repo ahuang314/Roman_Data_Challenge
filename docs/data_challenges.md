@@ -22,6 +22,8 @@ The goal of this rung is to serve as a tutorial for participants. You will famil
 
 {% include "rung_descriptions/rung_0.md" %}
 
+Real galaxies from the HST COSMOS survey (F814W) are used as source galaxies. See [the SLSim documentation](https://github.com/LSST-strong-lensing/slsim/blob/7fa85b451351182499261e02ed37865f3f84aa30/slsim/Sources/SourceCatalogues/HSTCosmosCatalog/README.md) for details.
+
 !!! note
     Versions 1.x use ``GalSim`` to add noise, while Versions 2.x use ``romanisim``. Version 2.0 does not use CRDS.
 
@@ -41,6 +43,8 @@ The full `mejiro` configuration YAML file used to generate the training dataset 
 ## Rung 1
 
 {% include "rung_descriptions/rung_1.md" %}
+
+Real galaxies from the JWST COSMOS-Web survey are used as source galaxies. NIRCam F115W, F150W, F277W, and F444W images are mapped to Roman filters to create source galaxies that are not monochromatic. See [the SLSim documentation](https://github.com/LSST-strong-lensing/slsim/blob/7fa85b451351182499261e02ed37865f3f84aa30/slsim/Sources/SourceCatalogues/CosmosWebCatalog/README.md) for details.
 
 All versions use ``romanisim`` to add noise.
 
