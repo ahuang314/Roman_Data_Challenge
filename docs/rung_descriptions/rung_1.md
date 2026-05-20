@@ -1,1 +1,1 @@
-In this rung, you will train a binary classification model to distinguish between cold dark matter (CDM) and fuzzy dark matter (FDM).
+The goal of this rung is to distinguish between mass distributions with Cold Dark Matter subhalos and no subhalos. In this rung, you will train a binary classifier to determine whether subhalos are present.

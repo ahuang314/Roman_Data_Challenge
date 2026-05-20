@@ -11,24 +11,16 @@ Follow the installation instructions on the [`mejiro` Read the Docs](https://mej
 
 ## Pipeline Execution
 
-Once `mejiro` is installed, prepare a configuration file. The easiest way to do this will be to create a copy of one of the challenge yaml files and edit it. At minimum, the following attributes *must* be updated:
+Once `mejiro` is installed, prepare a configuration file. The easiest way to do this will be to create a copy of one of the challenge YAML files and edit it. See the [`mejiro` documentation](https://mejiro.readthedocs.io/en/latest/usage/configuration.html) for descriptions of each attribute. At minimum, the following attributes *must* be updated:
 
 - `data_dir`: the directory where all output data should be written. Note that `mejiro` can produce 10s of GBs for large (>100 sq. deg.) simulated surveys.
 - `pipeline_label`: the directory within `data_dir` where the data for the current configuration will be written.
 - `survey.catalog_source_kwargs.catalog_path`: if real sources will be used, this must be set to the directory where the catalog is. For more details, see the `SLSim` documentation of the `slsim.Sources.SourceTypes.catalog_source.CatalogSource` class which the `catalog_source_kwargs` are passed through to.
 
-Then, the pipeline can be executed by running the `execute_pipeline.sh` bash script:
+Then, the pipeline can be executed by running the `execute_pipeline.sh` bash script after updating the path to the configuration file:
 
 ```bash
 bash execute_pipeline.sh
-```
-
-## An Example: (Mini) Rung 1 Dataset
-
-The following `mejiro` configuration file can be used to simulate 1 sq. deg. of the Medium Tier of the HLWAS.
-
-```yaml
-{% include "../data/mejiro_configuration/example.yaml" %}
 ```
 
 ## Suggestions
