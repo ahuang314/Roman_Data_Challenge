@@ -51,7 +51,7 @@ All versions use ``romanisim`` to add noise.
 ### Downloads
 
 - [Latest rung 1 dataset and example notebook on Zenodo](https://doi.org/10.5281/zenodo.20249305)
-<!-- - [Latest unlabeled rung 1 dataset and example notebook on Zenodo]() -->
+- [Latest unlabeled rung 1 dataset and example notebook on Zenodo](https://doi.org/10.5281/zenodo.20249307)
 
 ### Configuration File
 
